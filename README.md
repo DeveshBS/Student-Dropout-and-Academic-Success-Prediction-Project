@@ -26,9 +26,3 @@ Portuguese higher education dataset (4,424 students, 37 features including grade
 - Models: Logistic Regression, SVM (linear/poly/RBF), Decision Tree, Random Forest, AdaBoost, Gradient Boosting
 - Hyperparameter tuning with GridSearchCV (5‑fold CV)
 - Evaluation: confusion matrix, precision, recall, weighted F1‑score
-
-## Run It
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn plotly
-jupyter notebook student_success_prediction.ipynb
